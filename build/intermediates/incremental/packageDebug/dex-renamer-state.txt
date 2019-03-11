@@ -1,0 +1,7 @@
+#Fri Mar 08 14:34:15 CST 2019
+base.0=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7773ebe5eba2bc52c087113a0bd502f1e097f7d4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f79b53b9a63e6412484cdc553781b037d770fdb/classes.dex
+base.1=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f79b53b9a63e6412484cdc553781b037d770fdb
+file.0=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7773ebe5eba2bc52c087113a0bd502f1e097f7d4/classes.dex

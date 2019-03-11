@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/HCNetSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4f27229ff918954295884797454a5d19fc297424">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/HCNetSDK_2f6c1bfbf4837a6c0d4d27f66fddc3c95c270def/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/jna.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da30ee416e73782a7475668715c12b4f1b00f317">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/jna_4fa2d0a5dd17fe634289db7aa85aa1d08fed3541/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3f79b53b9a63e6412484cdc553781b037d770fdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba7d514ed71527fd9d7fa07543caad370590d7b9">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7773ebe5eba2bc52c087113a0bd502f1e097f7d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/jna.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da30ee416e73782a7475668715c12b4f1b00f317">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/pre-dexed/debug/jna_4fa2d0a5dd17fe634289db7aa85aa1d08fed3541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/HCNetSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4f27229ff918954295884797454a5d19fc297424">
+        <dex dex="/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/pre-dexed/debug/HCNetSDK_2f6c1bfbf4837a6c0d4d27f66fddc3c95c270def.jar" />
+    </item>
+
+</items>

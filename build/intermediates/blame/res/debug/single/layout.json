@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/res/merged/debug/layout/test_layout.xml",
+        "source": "/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/res/layout/test_layout.xml"
+    },
+    {
+        "merged": "/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/res/layout/main.xml"
+    }
+]

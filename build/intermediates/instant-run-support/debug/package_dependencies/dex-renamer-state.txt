@@ -1,0 +1,7 @@
+#Thu Mar 07 15:23:24 CST 2019
+base.0=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/jna_4fa2d0a5dd17fe634289db7aa85aa1d08fed3541
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/HCNetSDK_2f6c1bfbf4837a6c0d4d27f66fddc3c95c270def/classes.dex
+base.1=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/HCNetSDK_2f6c1bfbf4837a6c0d4d27f66fddc3c95c270def
+file.0=/Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/build/intermediates/transforms/dex/debug/folders/1000/2/jna_4fa2d0a5dd17fe634289db7aa85aa1d08fed3541/classes.dex

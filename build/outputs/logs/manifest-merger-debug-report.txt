@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:3:7-30
+	android:versionName
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml
+		INJECTED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml
+		INJECTED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:6:5-8:40
+	android:targetSdkVersion
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:7:9-35
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:11:22-68
+application
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:13:5-23:19
+	android:label
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:13:48-80
+	android:icon
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:13:18-47
+activity#com.test.demo.DemoActivity
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:15:19-51
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:18:27-74
+activity#com.test.demo.TestActivity
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:21:9-22:20
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:21:19-47
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:25:5-66
+	android:name
+		ADDED from /Users/zou/AndroidStudioProjects/Hikvison SimpleDemo/AndroidManifest.xml:25:22-64
